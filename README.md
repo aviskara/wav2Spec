@@ -29,3 +29,7 @@ The function that controls the length and location of snippets is the `split_wav
 1. The output spectrograms have their y-axis labels included on the left that need to be removed
 2. Space inefficient as the function requires WAV files to be able to work
 3. Make the whole program be able to be called with a single function with supporting arguments/ parameters
+
+## Thanks to the following people 
+https://stackoverflow.com/a/62872679 - code to split the wav file
+https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ - idea for this whole thing
